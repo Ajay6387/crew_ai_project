@@ -16,7 +16,7 @@ if not OPENAI_API_KEY:
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 # Check if the file exists before initializing TXTSearchTool
-file_path = r"ai.txt"
+file_path = r"ai_text.txt"
 if not os.path.exists(file_path):
     raise FileNotFoundError(f"⚠️ The file '{file_path}' does not exist. Please provide a valid text file.")
 
