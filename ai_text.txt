@@ -1,1 +1,18 @@
+Natural Language Processing (NLP) is a field of AI that enables computers to understand and process human language. 
+It includes tasks like text analysis, translation, sentiment analysis, and chatbot interactions.
+
+Machine Learning (ML) is a subset of AI that enables systems to learn from data and make decisions without explicit programming. 
+It includes supervised, unsupervised, and reinforcement learning.
+
+Deep Learning (DL) is a more advanced branch of ML that uses neural networks to process data in a hierarchical manner.
+Popular applications include image recognition, speech processing, and autonomous vehicles.
+
+Computer Vision is a branch of AI that enables machines to interpret and understand visual information from the world. 
+It is widely used in facial recognition, medical imaging, and self-driving cars.
+
+Reinforcement Learning (RL) is an area of ML where agents learn by interacting with their environment to maximize rewards.
+It is used in robotics, gaming, and optimization tasks.
+
+Generative AI refers to models that generate new content, such as text, images, music, and even code.
+Examples include OpenAI’s GPT models, Google's Gemini, and Stable Diffusion.
 
